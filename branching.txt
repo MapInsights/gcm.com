@@ -3,5 +3,9 @@ this is a text file for me to practice breaking git as much as i can.
 AC
 
 
+
+I made lots of changes to this file on this branch.
+
 and now ive gone and made some difference changes (on master)
+
 
